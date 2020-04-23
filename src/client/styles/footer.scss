@@ -1,0 +1,25 @@
+footer {
+    background-color: #9c8f8f;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 2rem 0;
+    & > p {
+      color: #ffffff;
+      font-size: 1em;
+      padding: 0.5rem 0;
+      text-align: center;
+    }
+  }
+
+//phone
+@media only screen and (max-width: 715px) {
+}
+
+// tablet
+@media only screen and (max-width: 990px) {
+}
+
+// desktop
+@media only screen and (min-width: 901px) {
+}

@@ -1,0 +1,23 @@
+header {
+    background-color: #9c8f8f;
+    position: relative;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 2rem 0;
+    box-shadow: 0 3px 3px rgba(39, 38, 38, 0.12);
+    font-family: 'News Cycle', sans-serif;
+  }
+
+
+//phone
+@media only screen and (max-width: 715px) {
+}
+
+// tablet
+@media only screen and (max-width: 990px) {
+}
+
+// desktop
+@media only screen and (min-width: 901px) {
+}

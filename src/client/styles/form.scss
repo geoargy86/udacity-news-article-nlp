@@ -1,0 +1,29 @@
+form {
+    margin: 1rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+input {
+  width: 60%;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: 0;
+  background-color: #dbd8d8;
+  font-size: 1.6rem;
+  font-family: 'News Cycle', sans-serif;
+}
+
+//phone
+@media only screen and (max-width: 715px) {
+}
+
+// tablet
+@media only screen and (max-width: 990px) {
+}
+
+// desktop
+@media only screen and (min-width: 901px) {
+}
